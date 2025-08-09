@@ -15,4 +15,4 @@ Data visualization — Power BI / Tableau basics
 Grow into a skilled Data Analyst and contribute to data-driven projects. Currently doing self-learning, small projects, and practice problems to prepare for a first role.
 
 📫 Contact
-LinkedIn: https://www.linkedin.com/in/krishna-mohan-singh-b66691262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn: https://www.linkedin.com/in/krishna-mohan-singh-b66691262/
