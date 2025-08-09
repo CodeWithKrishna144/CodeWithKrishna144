@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I’m Krishna Mohan Singh
+Final-year B.Tech — Electronics & Communication Engineering
+Aspiring Data Analyst — currently building skills in SQL, Excel, Python, and data visualization (Power BI / Tableau). I love turning raw data into actionable insights and I’m working on small projects to strengthen my practical skills.
 
-<!--
-**CodeWithKrishna144/CodeWithKrishna144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Learning Path
+SQL — queries and data manipulation
 
-Here are some ideas to get you started:
+Excel — data cleaning and analysis (pivot tables, formulas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python — pandas, numpy basics for data processing
+
+Data visualization — Power BI / Tableau basics
+
+🎯 Goals
+Grow into a skilled Data Analyst and contribute to data-driven projects. Currently doing self-learning, small projects, and practice problems to prepare for a first role.
+
+📫 Contact
+LinkedIn: https://www.linkedin.com/in/krishna-mohan-singh-b66691262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
